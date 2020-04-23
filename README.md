@@ -9,7 +9,7 @@ Software-engineering-1704
 
 2. 用户名：Administrator
 
-3. 密码：cs1704CS1704
+3. 密码：
 
 4. （如果密码被和谐了来私聊我）
 
